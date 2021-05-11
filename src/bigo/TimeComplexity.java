@@ -1,4 +1,4 @@
-package bigO;
+package bigo;
 
 public class TimeComplexity {
     //TODO: O(1) Constant Time
